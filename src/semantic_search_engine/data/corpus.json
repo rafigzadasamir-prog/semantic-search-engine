@@ -1,0 +1,722 @@
+[
+  {
+    "id": "astro-01",
+    "topic": "astronomy",
+    "title": "How the Solar System Formed",
+    "text": "The Solar System formed about 4.6 billion years ago from the gravitational collapse of a giant molecular cloud of gas and dust. Most of the material gathered at the center to form the Sun, while the remaining disk of debris flattened and clumped together to form planets, moons, and asteroids. This process, called accretion, explains why most planets orbit in roughly the same plane."
+  },
+  {
+    "id": "astro-02",
+    "topic": "astronomy",
+    "title": "The Terrestrial Planets",
+    "text": "Mercury, Venus, Earth, and Mars are known as the terrestrial planets because they have solid, rocky surfaces unlike the gas giants farther out. Mercury is the smallest and closest to the Sun, with extreme temperature swings and no real atmosphere. Venus has a thick carbon dioxide atmosphere that traps heat through a runaway greenhouse effect, making it the hottest planet. Mars has a thin atmosphere, polar ice caps, and the largest volcano in the Solar System, Olympus Mons."
+  },
+  {
+    "id": "astro-03",
+    "topic": "astronomy",
+    "title": "Jupiter and Saturn, the Gas Giants",
+    "text": "Jupiter and Saturn are gas giants composed mainly of hydrogen and helium with no solid surface to land on. Jupiter is the largest planet and hosts the Great Red Spot, a storm that has raged for centuries, along with dozens of moons including Europa and Io. Saturn is famous for its extensive ring system made of ice and rock particles, and its moon Titan has a thick atmosphere and liquid methane lakes."
+  },
+  {
+    "id": "astro-04",
+    "topic": "astronomy",
+    "title": "Uranus and Neptune, the Ice Giants",
+    "text": "Uranus and Neptune are called ice giants because, beyond hydrogen and helium, they contain large amounts of water, ammonia, and methane ices in their interiors. Uranus is unusual in that it rotates almost on its side, likely the result of an ancient collision. Neptune, the most distant known planet, has the fastest winds recorded in the Solar System, reaching over 2,000 kilometers per hour."
+  },
+  {
+    "id": "astro-05",
+    "topic": "astronomy",
+    "title": "The Moon and Ocean Tides",
+    "text": "Earth's Moon formed roughly 4.5 billion years ago, most likely from debris left after a Mars-sized body collided with the young Earth. The Moon's gravitational pull is the primary driver of ocean tides, creating two high tides and two low tides at most coastal locations each day. The Sun also contributes to tides, and when the Sun and Moon align during full and new moons, the result is a stronger spring tide."
+  },
+  {
+    "id": "astro-06",
+    "topic": "astronomy",
+    "title": "The Asteroid Belt",
+    "text": "The asteroid belt lies between the orbits of Mars and Jupiter and contains millions of rocky bodies left over from the Solar System's formation. Most asteroids are too small and scattered to have combined into a planet because Jupiter's gravity repeatedly disturbed their orbits. Ceres, the largest object in the belt, is massive enough to be classified as a dwarf planet."
+  },
+  {
+    "id": "astro-07",
+    "topic": "astronomy",
+    "title": "Comets and the Oort Cloud",
+    "text": "Comets are icy bodies that develop glowing comas and tails when their orbits bring them close to the Sun, causing surface ice to vaporize. Short-period comets originate from the Kuiper Belt beyond Neptune, while long-period comets are thought to come from the distant, spherical Oort Cloud that may extend halfway to the nearest star. Each pass near the Sun erodes a comet slightly, so most comets eventually break apart or burn out."
+  },
+  {
+    "id": "astro-08",
+    "topic": "astronomy",
+    "title": "Stellar Classification",
+    "text": "Stars are classified by spectral type, letters O, B, A, F, G, K, and M, ranked from hottest and bluest to coolest and reddest. The Sun is a G-type main-sequence star, meaning it fuses hydrogen into helium in a stable core. A star's mass largely determines its temperature, color, luminosity, and how long it will live, with the most massive stars burning through their fuel fastest."
+  },
+  {
+    "id": "astro-09",
+    "topic": "astronomy",
+    "title": "The Life Cycle of Stars",
+    "text": "Stars are born in dense clouds of gas called nebulae, where gravity pulls material together until nuclear fusion ignites. For most of their lives, stars sit on the main sequence, steadily fusing hydrogen. When a massive star exhausts its fuel, it can collapse and explode as a supernova, scattering heavy elements into space and sometimes leaving behind a neutron star or black hole; smaller stars like the Sun instead swell into red giants and shed their outer layers as planetary nebulae."
+  },
+  {
+    "id": "astro-10",
+    "topic": "astronomy",
+    "title": "Black Holes",
+    "text": "A black hole is a region of space where gravity is so strong that nothing, not even light, can escape once past its boundary, the event horizon. Most black holes form from the collapse of massive stars, though supermassive black holes millions of times the Sun's mass sit at the centers of most galaxies, including the Milky Way. Scientists detect black holes indirectly, through their gravitational pull on nearby stars or by imaging the glowing gas that swirls around them."
+  },
+  {
+    "id": "astro-11",
+    "topic": "astronomy",
+    "title": "The Milky Way Galaxy",
+    "text": "The Milky Way is a barred spiral galaxy containing an estimated 100 to 400 billion stars, including our Sun, which sits in one of its spiral arms about 27,000 light-years from the galactic center. The galaxy is part of the Local Group, a cluster of galaxies that also includes the Andromeda Galaxy, with which the Milky Way is expected to collide in roughly four billion years."
+  },
+  {
+    "id": "astro-12",
+    "topic": "astronomy",
+    "title": "The Big Bang and Cosmic Expansion",
+    "text": "The Big Bang theory describes how the universe began about 13.8 billion years ago as an extremely hot, dense state that has been expanding ever since. Key evidence includes the cosmic microwave background radiation, the observed redshift of distant galaxies, and the relative abundance of light elements like hydrogen and helium. Observations show the expansion is actually accelerating, which astronomers attribute to a poorly understood force called dark energy."
+  },
+  {
+    "id": "astro-13",
+    "topic": "astronomy",
+    "title": "Exoplanets and Habitable Zones",
+    "text": "An exoplanet is any planet that orbits a star other than the Sun, and thousands have been confirmed since the first discoveries in the 1990s, many detected by the slight dimming they cause as they pass in front of their host star. The habitable zone is the range of distances from a star where a planet could maintain liquid water on its surface, a key ingredient scientists look for when assessing a world's potential to support life."
+  },
+  {
+    "id": "astro-14",
+    "topic": "astronomy",
+    "title": "Space Telescopes: Hubble and JWST",
+    "text": "The Hubble Space Telescope, launched in 1990, orbits above Earth's atmosphere and has produced some of the most detailed images of distant galaxies, nebulae, and planets ever captured in visible and ultraviolet light. The James Webb Space Telescope, launched in 2021, observes primarily in infrared light, letting it peer through dust clouds and see some of the earliest galaxies that formed after the Big Bang."
+  },
+  {
+    "id": "astro-15",
+    "topic": "astronomy",
+    "title": "Human Spaceflight: Apollo to the ISS",
+    "text": "The Apollo program landed the first humans on the Moon in 1969, with astronauts Neil Armstrong and Buzz Aldrin walking on the lunar surface during Apollo 11. Since the 1990s, the International Space Station has hosted rotating crews of astronauts conducting continuous research in microgravity, covering fields from biology to materials science, and serving as a proving ground for technology needed for future deep-space missions."
+  },
+  {
+    "id": "nutr-01",
+    "topic": "nutrition",
+    "title": "Macronutrients: Carbs, Protein, and Fat",
+    "text": "Macronutrients are the nutrients the body needs in large amounts for energy and growth: carbohydrates, protein, and fat. Carbohydrates are the body's preferred quick-energy source and are broken down into glucose. Protein supplies amino acids used to build and repair muscle, enzymes, and other tissues. Fat provides concentrated energy, supports hormone production, and helps absorb fat-soluble vitamins A, D, E, and K."
+  },
+  {
+    "id": "nutr-02",
+    "topic": "nutrition",
+    "title": "Vitamins and Their Roles",
+    "text": "Vitamins are organic compounds the body needs in small amounts to support essential chemical reactions. Vitamin C supports immune function and collagen production, vitamin D helps regulate calcium absorption and bone health, and B vitamins assist in converting food into usable energy. Because the body cannot synthesize most vitamins on its own, they must come from food or, in some cases, sunlight exposure."
+  },
+  {
+    "id": "nutr-03",
+    "topic": "nutrition",
+    "title": "Essential Minerals in the Diet",
+    "text": "Minerals such as calcium, iron, potassium, and zinc are inorganic elements the body needs for processes like bone formation, oxygen transport, and immune defense. Calcium and phosphorus make up the structural core of bones and teeth, while iron is a key component of hemoglobin, the protein that carries oxygen in red blood cells. Mineral deficiencies, such as low iron leading to anemia, can cause fatigue and weakened immunity."
+  },
+  {
+    "id": "nutr-04",
+    "topic": "nutrition",
+    "title": "Dietary Fiber and Gut Health",
+    "text": "Dietary fiber is the indigestible part of plant foods that passes largely intact through the digestive system. Soluble fiber, found in oats and beans, dissolves in water and can help lower cholesterol, while insoluble fiber, found in whole grains and vegetable skins, adds bulk that keeps digestion regular. Fiber also feeds beneficial gut bacteria, which ferment it into short-chain fatty acids linked to reduced inflammation."
+  },
+  {
+    "id": "nutr-05",
+    "topic": "nutrition",
+    "title": "Hydration and Daily Water Needs",
+    "text": "Water makes up roughly 60 percent of adult body weight and is essential for regulating temperature, transporting nutrients, and cushioning joints. Daily needs vary with body size, activity level, and climate, but general guidelines suggest around two to three liters of total fluid per day from beverages and food combined. Thirst, urine color, and exercise intensity are practical signals people use to judge whether they are drinking enough."
+  },
+  {
+    "id": "nutr-06",
+    "topic": "nutrition",
+    "title": "The Mediterranean Diet",
+    "text": "The Mediterranean diet emphasizes vegetables, fruits, whole grains, legumes, olive oil, and fish, with red meat and sweets eaten only occasionally. Long-term studies have linked this eating pattern to lower rates of heart disease and stroke, likely due to its combination of healthy fats, fiber, and antioxidants. It is often recommended by dietitians as a sustainable, flavor-forward alternative to more restrictive diets."
+  },
+  {
+    "id": "nutr-07",
+    "topic": "nutrition",
+    "title": "Plant-Based Diets",
+    "text": "Plant-based diets center on vegetables, fruits, whole grains, legumes, and nuts, ranging from fully vegan patterns that exclude all animal products to flexitarian approaches that simply minimize meat. Well-planned plant-based diets can meet protein needs through combinations like beans and rice, but may require attention to nutrients that are harder to obtain from plants alone, such as vitamin B12, iron, and omega-3 fatty acids."
+  },
+  {
+    "id": "nutr-08",
+    "topic": "nutrition",
+    "title": "The Ketogenic Diet",
+    "text": "The ketogenic diet drastically reduces carbohydrate intake, usually below 50 grams a day, while increasing fat to push the body into ketosis, a metabolic state where it burns fat for fuel and produces ketones. Originally developed to help manage epilepsy, it has since gained popularity for weight loss, though it requires careful planning to avoid nutrient gaps from eliminating many fruits, grains, and legumes."
+  },
+  {
+    "id": "nutr-09",
+    "topic": "nutrition",
+    "title": "Intermittent Fasting",
+    "text": "Intermittent fasting restricts eating to specific time windows rather than limiting which foods are eaten, with common patterns including a daily 16-hour fast or two reduced-calorie days per week. Proposed benefits include improved insulin sensitivity and cellular repair processes triggered during extended fasting periods, though research on long-term outcomes compared to simple calorie restriction is still developing."
+  },
+  {
+    "id": "nutr-10",
+    "topic": "nutrition",
+    "title": "Added Sugar and Its Health Effects",
+    "text": "Added sugars are sugars and syrups put into foods during processing or preparation, distinct from sugars naturally present in fruit or milk. Diets high in added sugar are linked to weight gain, increased risk of type 2 diabetes, and dental cavities, partly because sugary foods are often calorie-dense but low in fiber and protein. Health guidelines generally recommend keeping added sugar below 10 percent of daily calories."
+  },
+  {
+    "id": "nutr-11",
+    "topic": "nutrition",
+    "title": "Animal and Plant Protein Sources",
+    "text": "Protein sources are often described as complete or incomplete based on whether they provide all nine essential amino acids in sufficient amounts. Animal sources like eggs, meat, and dairy are complete proteins, while most plant sources such as beans or rice are missing or low in at least one essential amino acid, which is why combining different plant proteins across the day helps vegetarians meet their needs."
+  },
+  {
+    "id": "nutr-12",
+    "topic": "nutrition",
+    "title": "Healthy Fats: Omega-3s and Saturated Fat",
+    "text": "Not all dietary fats affect the body the same way. Omega-3 fatty acids, found in fatty fish, walnuts, and flaxseed, support heart and brain health and have anti-inflammatory effects. Saturated fat, common in red meat and butter, raises LDL cholesterol when eaten in excess, while unsaturated fats from olive oil, avocados, and nuts are generally considered better for cardiovascular health when they replace saturated fat in the diet."
+  },
+  {
+    "id": "nutr-13",
+    "topic": "nutrition",
+    "title": "Reading Nutrition Facts Labels",
+    "text": "Nutrition facts labels list serving size, calories, and amounts of macronutrients and key micronutrients per serving, along with percent daily values that show how a serving fits into a typical 2,000-calorie diet. Checking the serving size first is important, since all the other numbers on the label scale to it, and a package can contain several servings even if it looks like a single portion."
+  },
+  {
+    "id": "nutr-14",
+    "topic": "nutrition",
+    "title": "Meal Timing and Metabolism",
+    "text": "Meal timing refers to when food is eaten relative to sleep and activity, and research suggests it can influence metabolism, blood sugar control, and appetite regulation independent of total calories consumed. Eating larger meals earlier in the day and finishing eating several hours before bedtime has been associated with better blood sugar control in some studies, though individual responses vary with lifestyle and genetics."
+  },
+  {
+    "id": "nutr-15",
+    "topic": "nutrition",
+    "title": "Electrolytes and Sports Nutrition",
+    "text": "Electrolytes such as sodium, potassium, and magnesium are minerals that carry an electric charge and are essential for muscle contraction, nerve signaling, and fluid balance. Prolonged exercise, especially in heat, causes electrolyte loss through sweat, which is why sports drinks and electrolyte tablets are formulated to replace sodium and potassium alongside plain water during long workouts or endurance events."
+  },
+  {
+    "id": "prog-01",
+    "topic": "programming",
+    "title": "Python: A High-Level Scripting Language",
+    "text": "Python is a high-level, dynamically typed programming language known for readable syntax and a large standard library. It is widely used for data science, web backends, automation scripts, and machine learning, partly because libraries like NumPy and pandas make numerical work concise. Python code is executed by an interpreter, typically CPython, rather than being compiled directly to native machine code ahead of time."
+  },
+  {
+    "id": "prog-02",
+    "topic": "programming",
+    "title": "JavaScript and the Web",
+    "text": "JavaScript is the primary language that runs inside web browsers, enabling interactive pages that respond to clicks, form input, and animations without reloading. It uses an event-driven, single-threaded model with an event loop that handles asynchronous operations like network requests. Beyond the browser, the Node.js runtime lets JavaScript run on servers, which is why it is common across both frontend and backend code."
+  },
+  {
+    "id": "prog-03",
+    "topic": "programming",
+    "title": "Rust and Memory Safety",
+    "text": "Rust is a systems programming language designed to give the performance of C and C++ while preventing common memory errors like use-after-free bugs and data races. It achieves this through its ownership and borrowing system, which the compiler checks at compile time rather than relying on a garbage collector or runtime checks. This makes Rust popular for performance-critical software where safety bugs would otherwise be costly."
+  },
+  {
+    "id": "prog-04",
+    "topic": "programming",
+    "title": "Go and Lightweight Concurrency",
+    "text": "Go, created at Google, is a compiled, statically typed language designed for simplicity and fast builds. Its standout feature is goroutines, lightweight threads managed by the Go runtime, paired with channels for passing data safely between them. This makes writing concurrent network services, such as web servers handling thousands of simultaneous connections, considerably simpler than with traditional operating-system threads."
+  },
+  {
+    "id": "prog-05",
+    "topic": "programming",
+    "title": "Java and the JVM",
+    "text": "Java source code compiles to bytecode that runs on the Java Virtual Machine, which is what makes Java programs portable across operating systems without recompilation. The JVM includes an automatic garbage collector that reclaims memory from objects no longer in use, freeing developers from manual memory management. Java remains widely used in large enterprise systems, Android app development, and backend services."
+  },
+  {
+    "id": "prog-06",
+    "topic": "programming",
+    "title": "C and Systems Programming",
+    "text": "C is a low-level, compiled language that gives programmers direct control over memory through pointers and manual allocation with functions like malloc and free. This control makes C well suited for operating systems, embedded devices, and performance-critical libraries, but it also means programmers are responsible for avoiding memory leaks, buffer overflows, and dangling pointers that the language itself does not prevent."
+  },
+  {
+    "id": "prog-07",
+    "topic": "programming",
+    "title": "C++ and Object-Oriented Systems Programming",
+    "text": "C++ extends C with object-oriented features such as classes, inheritance, and polymorphism, while retaining low-level memory control and the ability to compile to efficient native code. It is widely used in game engines, high-frequency trading systems, and performance-sensitive applications where both abstraction and raw speed matter. Modern C++ also offers smart pointers that automate memory cleanup while still avoiding a full garbage collector."
+  },
+  {
+    "id": "prog-08",
+    "topic": "programming",
+    "title": "TypeScript and Static Typing for JavaScript",
+    "text": "TypeScript is a superset of JavaScript that adds optional static types, which are checked at compile time and then stripped away when the code is compiled down to plain JavaScript. Static types let editors catch many bugs, like passing a string where a number is expected, before the code ever runs. This has made TypeScript the default choice for many large frontend and Node.js codebases where maintainability matters."
+  },
+  {
+    "id": "prog-09",
+    "topic": "programming",
+    "title": "SQL and Relational Databases",
+    "text": "SQL, or Structured Query Language, is used to define, query, and modify data stored in relational databases organized as tables of rows and columns. A SELECT statement retrieves data, often filtering with WHERE clauses and combining tables with JOIN operations based on shared keys. Relational databases enforce structure through schemas and constraints, which helps keep data consistent as applications grow."
+  },
+  {
+    "id": "prog-10",
+    "topic": "programming",
+    "title": "Functional Programming Concepts",
+    "text": "Functional programming treats computation as the evaluation of mathematical functions, favoring immutable data and avoiding side effects wherever possible. Languages like Haskell and Lisp are built around these ideas, but concepts such as pure functions, map and filter operations, and higher-order functions have also been adopted by mainstream languages like Python and JavaScript. Pure functions are easier to test and reason about because their output depends only on their input."
+  },
+  {
+    "id": "prog-11",
+    "topic": "programming",
+    "title": "Version Control with Git",
+    "text": "Git is a distributed version control system that tracks changes to source code over time, letting developers create branches to work on features in isolation and later merge them back together. Each commit records a snapshot of the project along with a message describing the change, forming a history that can be reviewed, reverted, or compared. Being distributed means every developer has a full copy of the project history, not just a central server."
+  },
+  {
+    "id": "prog-12",
+    "topic": "programming",
+    "title": "Static Typing vs Dynamic Typing",
+    "text": "In statically typed languages like Java or Rust, variable types are checked at compile time, catching many type-related errors before the program runs. In dynamically typed languages like Python or JavaScript, types are checked at runtime, which speeds up writing small scripts but can let certain bugs slip through to production. Many teams bridge the gap with optional type checkers or gradual typing systems added on top of dynamic languages."
+  },
+  {
+    "id": "prog-13",
+    "topic": "programming",
+    "title": "Garbage Collection Explained",
+    "text": "Garbage collection is an automatic memory management technique that identifies objects a program no longer uses and frees their memory without the programmer calling a manual delete. Common strategies include reference counting, which tracks how many references point to an object, and tracing collectors that periodically scan for reachable objects from a set of roots. Languages such as Java, Python, and Go all rely on garbage collection instead of manual memory management."
+  },
+  {
+    "id": "prog-14",
+    "topic": "programming",
+    "title": "Compilers vs Interpreters",
+    "text": "A compiler translates source code into machine code or an intermediate form ahead of execution, producing a standalone program that can run repeatedly without the original compiler present. An interpreter instead reads and executes source code, or a close representation of it, line by line at run time. Many modern languages blur the line by compiling to bytecode that an interpreter or virtual machine then executes, sometimes with just-in-time compilation for extra speed."
+  },
+  {
+    "id": "prog-15",
+    "topic": "programming",
+    "title": "Concurrency: Threads vs Async",
+    "text": "Thread-based concurrency runs multiple sequences of instructions that the operating system schedules onto available CPU cores, which works well for CPU-bound work but adds overhead and complexity around shared state. Asynchronous, event-loop-based concurrency instead runs many operations on a single thread, switching between them whenever one is waiting on something like network I/O, which scales efficiently for workloads dominated by waiting rather than heavy computation."
+  },
+  {
+    "id": "hist-01",
+    "topic": "history",
+    "title": "Ancient Egypt and the Nile",
+    "text": "Ancient Egyptian civilization developed along the Nile River, whose predictable annual floods deposited fertile silt that supported large-scale farming. This agricultural surplus allowed the rise of centralized rule under pharaohs, massive construction projects like the pyramids at Giza, and a complex system of writing known as hieroglyphics. Egyptian civilization lasted for roughly three thousand years, making it one of the longest-lived states in recorded history."
+  },
+  {
+    "id": "hist-02",
+    "topic": "history",
+    "title": "The Roman Republic and Empire",
+    "text": "Rome began as a small city-state and grew into a republic governed by elected officials and a Senate before eventually transforming into an empire under Augustus in 27 BCE. At its height, the Roman Empire controlled territory from Britain to the Middle East, connected by roads, a shared legal system, and Latin as an administrative language. Its eventual decline in the west during the fifth century CE is attributed to a mix of economic strain, military overextension, and repeated invasions."
+  },
+  {
+    "id": "hist-03",
+    "topic": "history",
+    "title": "The Silk Road Trade Network",
+    "text": "The Silk Road was a network of overland and maritime trade routes connecting China, Central Asia, the Middle East, and Europe for roughly fifteen hundred years. Merchants carried silk, spices, and precious metals across these routes, but the network also spread religions, technologies like papermaking, and diseases such as the plague. No single road existed; instead goods passed through many hands across a chain of regional markets."
+  },
+  {
+    "id": "hist-04",
+    "topic": "history",
+    "title": "The Printing Press and Gutenberg",
+    "text": "Johannes Gutenberg introduced a movable-type printing press in Europe around 1440, dramatically speeding up book production compared to hand-copying manuscripts. Cheaper, faster printing helped spread literacy, standardized spelling and language, and accelerated the circulation of new scientific and religious ideas, including texts that fueled the Protestant Reformation. Historians often cite the printing press as one of the most transformative information technologies before the internet."
+  },
+  {
+    "id": "hist-05",
+    "topic": "history",
+    "title": "The Renaissance",
+    "text": "The Renaissance was a period of renewed interest in classical Greek and Roman art, literature, and philosophy that began in Italian city-states during the fourteenth century and spread across Europe. Wealthy patrons funded artists like Leonardo da Vinci and Michelangelo, while scholars revived humanist ideas that emphasized human potential and observation of the natural world. The period laid intellectual groundwork for the later Scientific Revolution."
+  },
+  {
+    "id": "hist-06",
+    "topic": "history",
+    "title": "The Age of Exploration",
+    "text": "Beginning in the fifteenth century, European powers like Portugal and Spain funded long ocean voyages in search of new trade routes to Asia, aided by advances in shipbuilding and navigation instruments like the astrolabe. These voyages led to Christopher Columbus's 1492 arrival in the Americas and Vasco da Gama's sea route to India, reshaping global trade but also triggering colonization, exploitation, and the transatlantic slave trade."
+  },
+  {
+    "id": "hist-07",
+    "topic": "history",
+    "title": "The Industrial Revolution",
+    "text": "The Industrial Revolution began in Britain in the late eighteenth century as steam power, mechanized textile production, and iron manufacturing replaced hand tools and manual labor in many industries. It triggered mass migration from rural farms to growing factory cities, reshaped working conditions and child labor practices, and set off a sustained rise in economic output that eventually spread to continental Europe and North America."
+  },
+  {
+    "id": "hist-08",
+    "topic": "history",
+    "title": "The French Revolution",
+    "text": "The French Revolution began in 1789 amid widespread anger over social inequality, food shortages, and royal debt, culminating in the storming of the Bastille prison and the eventual execution of King Louis XVI. The revolution introduced ideas of popular sovereignty and citizenship that influenced political movements worldwide, though it also descended into a violent period known as the Reign of Terror before Napoleon Bonaparte rose to power."
+  },
+  {
+    "id": "hist-09",
+    "topic": "history",
+    "title": "Causes of World War I",
+    "text": "World War I broke out in 1914 after the assassination of Archduke Franz Ferdinand of Austria-Hungary, but the underlying causes included a tangle of military alliances, intense nationalism, and an ongoing arms race among European powers. Once Austria-Hungary declared war on Serbia, alliance commitments pulled in Russia, Germany, France, and Britain within weeks, turning a regional crisis into a continental war fought largely in entrenched trench lines."
+  },
+  {
+    "id": "hist-10",
+    "topic": "history",
+    "title": "World War II Overview",
+    "text": "World War II began in 1939 when Germany invaded Poland, eventually drawing in most of the world's nations into two main alliances, the Axis and the Allies. The war saw unprecedented mobilization of industry, the Holocaust's systematic genocide of six million Jews and other victims, and ended in 1945 after Germany's surrender in Europe and the atomic bombings of Hiroshima and Nagasaki led to Japan's surrender."
+  },
+  {
+    "id": "hist-11",
+    "topic": "history",
+    "title": "The Cold War",
+    "text": "The Cold War was a decades-long geopolitical standoff between the United States and the Soviet Union following World War II, characterized by nuclear arms competition, proxy wars in regions like Korea and Vietnam, and an ideological struggle between capitalism and communism. Rather than direct military conflict between the two superpowers, the rivalry played out through espionage, propaganda, and a space race that culminated in the 1969 Moon landing."
+  },
+  {
+    "id": "hist-12",
+    "topic": "history",
+    "title": "The Fall of the Berlin Wall",
+    "text": "The Berlin Wall was built in 1961 to stop East Germans from fleeing to the West, dividing the city for nearly three decades and becoming a global symbol of the Cold War's division of Europe. Mounting economic pressure and political reform across the Eastern Bloc led to its fall in November 1989, when crowds began dismantling sections of the wall, an event that preceded German reunification less than a year later."
+  },
+  {
+    "id": "hist-13",
+    "topic": "history",
+    "title": "Ancient Greece and the Birth of Democracy",
+    "text": "Ancient Greek city-states, especially Athens, developed early forms of democratic government in which citizens could vote directly on laws and policies, though voting rights were limited to free adult men. Greek philosophers like Socrates, Plato, and Aristotle laid foundations for Western philosophy, while playwrights and historians produced works still studied today. Greek city-states frequently fought each other, as in the Peloponnesian War between Athens and Sparta."
+  },
+  {
+    "id": "hist-14",
+    "topic": "history",
+    "title": "The Mongol Empire",
+    "text": "Founded by Genghis Khan in the early thirteenth century, the Mongol Empire grew into the largest contiguous land empire in history, stretching from Korea to Eastern Europe. Mongol rule, despite its brutal conquests, established the Pax Mongolica, a period of relative stability that revitalized Silk Road trade and allowed ideas, goods, and technologies to flow more freely across Eurasia."
+  },
+  {
+    "id": "hist-15",
+    "topic": "history",
+    "title": "The Neolithic Agricultural Revolution",
+    "text": "The Neolithic Revolution, beginning roughly 12,000 years ago, marked humanity's shift from nomadic hunting and gathering to settled farming and animal domestication, first in regions like the Fertile Crescent. Farming allowed food surpluses that supported larger, permanent settlements, specialized labor, and eventually the first cities, laying the groundwork for complex civilizations."
+  },
+  {
+    "id": "fin-01",
+    "topic": "finance",
+    "title": "Budgeting with the 50/30/20 Rule",
+    "text": "The 50/30/20 rule is a simple budgeting guideline that allocates 50 percent of after-tax income to needs like housing and groceries, 30 percent to wants like dining out and entertainment, and 20 percent to savings and debt repayment. It is popular as a starting framework because it is easy to remember, though people with high housing costs or heavy debt often need to adjust the percentages to fit their situation."
+  },
+  {
+    "id": "fin-02",
+    "topic": "finance",
+    "title": "Building an Emergency Fund",
+    "text": "An emergency fund is money set aside in an easily accessible account to cover unexpected expenses like medical bills, car repairs, or job loss without resorting to high-interest debt. Financial advisors commonly recommend saving three to six months of essential living expenses, kept in a separate savings account rather than invested in the stock market, so it remains stable and quickly available when needed."
+  },
+  {
+    "id": "fin-03",
+    "topic": "finance",
+    "title": "How Compound Interest Works",
+    "text": "Compound interest is interest calculated on both the original principal and the interest that has already accumulated, which causes savings or debt to grow faster over time than simple interest would. A small amount invested consistently over many years can grow substantially due to compounding, which is why financial advisors often stress starting to save for retirement as early as possible, even in small amounts."
+  },
+  {
+    "id": "fin-04",
+    "topic": "finance",
+    "title": "Understanding Credit Scores",
+    "text": "A credit score is a number, typically between 300 and 850, that summarizes how likely a person is to repay borrowed money based on their credit history. Factors that influence it include payment history, total amounts owed, length of credit history, and the mix of credit types used. A higher score generally qualifies borrowers for lower interest rates on loans, mortgages, and credit cards."
+  },
+  {
+    "id": "fin-05",
+    "topic": "finance",
+    "title": "Index Funds and Diversification",
+    "text": "An index fund is a pooled investment that holds all or a representative sample of the securities in a market index, such as a broad stock market index, aiming to match its performance rather than beat it. Because they spread money across hundreds or thousands of companies, index funds offer built-in diversification that reduces the risk of any single company's poor performance badly damaging a portfolio, usually at a lower cost than actively managed funds."
+  },
+  {
+    "id": "fin-06",
+    "topic": "finance",
+    "title": "Retirement Savings Accounts",
+    "text": "Tax-advantaged retirement accounts let people set aside money for retirement while deferring or avoiding taxes on investment growth, depending on the account type. Contributions to a traditional account typically reduce taxable income now but are taxed on withdrawal, while contributions to a Roth-style account are taxed upfront but grow and can be withdrawn tax-free in retirement. Employer matching contributions, when offered, effectively add free money to an employee's savings."
+  },
+  {
+    "id": "fin-07",
+    "topic": "finance",
+    "title": "Debt Payoff: Snowball vs Avalanche",
+    "text": "The debt snowball method pays off debts from smallest balance to largest, regardless of interest rate, to build motivation through quick wins as each balance disappears. The debt avalanche method instead targets the debt with the highest interest rate first, which minimizes the total interest paid over time even though the first payoff may take longer to achieve. Both methods make minimum payments on all other debts while focusing extra payments on the targeted one."
+  },
+  {
+    "id": "fin-08",
+    "topic": "finance",
+    "title": "Inflation and Purchasing Power",
+    "text": "Inflation is the rate at which prices for goods and services rise over time, which erodes the purchasing power of a fixed amount of money. A modest, steady inflation rate is generally considered normal for a healthy economy, but high or unpredictable inflation makes planning difficult and can disproportionately hurt people on fixed incomes or those holding cash savings that do not earn enough interest to keep pace."
+  },
+  {
+    "id": "fin-09",
+    "topic": "finance",
+    "title": "The Basics of Insurance",
+    "text": "Insurance is a financial arrangement in which a policyholder pays regular premiums to an insurer in exchange for protection against the cost of specific risks, such as illness, accidents, or property damage. Insurance works by pooling risk across many policyholders, since most people will never file a large claim, allowing the insurer to cover the smaller number who do. Deductibles and coverage limits determine how much of a loss the policyholder still bears."
+  },
+  {
+    "id": "fin-10",
+    "topic": "finance",
+    "title": "Mortgages and Home Loans",
+    "text": "A mortgage is a loan used to purchase real estate, where the property itself serves as collateral that the lender can seize through foreclosure if payments are not made. Fixed-rate mortgages keep the same interest rate for the life of the loan, giving predictable payments, while adjustable-rate mortgages start with a lower rate that can rise or fall over time based on market conditions."
+  },
+  {
+    "id": "fin-11",
+    "topic": "finance",
+    "title": "Stock Market Basics",
+    "text": "A stock represents partial ownership in a company, and its price fluctuates based on factors like company earnings, investor sentiment, and broader economic conditions. Investors can earn returns through price appreciation if the stock rises in value, or through dividends, which are periodic payments some companies distribute from their profits. Stock prices can be volatile in the short term even for fundamentally strong companies."
+  },
+  {
+    "id": "fin-12",
+    "topic": "finance",
+    "title": "Bonds and Fixed Income",
+    "text": "A bond is essentially a loan an investor makes to a government or corporation, which agrees to pay periodic interest and return the principal at a set maturity date. Bonds are generally considered less risky than stocks because payments are more predictable, but bond prices fall when interest rates rise, since newly issued bonds then offer more attractive rates than older ones."
+  },
+  {
+    "id": "fin-13",
+    "topic": "finance",
+    "title": "Understanding Income Taxes",
+    "text": "Income tax is a government levy on earnings, often structured as a progressive system where higher portions of income are taxed at higher rates, called tax brackets. Deductions reduce the amount of income subject to tax, while credits reduce the tax bill directly, which is why a tax credit is generally more valuable dollar-for-dollar than a deduction of the same size."
+  },
+  {
+    "id": "fin-14",
+    "topic": "finance",
+    "title": "Dollar-Cost Averaging",
+    "text": "Dollar-cost averaging is an investment strategy where a fixed amount of money is invested at regular intervals, regardless of whether prices are high or low at the time. This approach naturally buys more shares when prices are low and fewer when prices are high, smoothing out the impact of short-term market volatility compared to investing a lump sum all at once."
+  },
+  {
+    "id": "fin-15",
+    "topic": "finance",
+    "title": "Common Behavioral Finance Biases",
+    "text": "Behavioral finance studies how psychological biases cause investors to make decisions that deviate from purely rational models. Loss aversion describes the tendency to feel losses more intensely than equivalent gains, which can cause investors to hold losing positions too long. Herd behavior, following what others are doing rather than independent analysis, can amplify market bubbles and crashes."
+  },
+  {
+    "id": "ml-01",
+    "topic": "machine_learning",
+    "title": "Supervised Learning Overview",
+    "text": "Supervised learning trains a model on labeled examples, pairs of inputs and known correct outputs, so the model can learn a mapping it can later apply to new, unseen inputs. Classification tasks predict discrete categories, such as spam versus not spam, while regression tasks predict continuous values, such as a house price. The quality and quantity of labeled training data strongly influence how well a supervised model performs."
+  },
+  {
+    "id": "ml-02",
+    "topic": "machine_learning",
+    "title": "Unsupervised Learning and Clustering",
+    "text": "Unsupervised learning works with data that has no labeled outcomes, instead looking for structure or patterns on its own. Clustering algorithms, such as k-means, group similar data points together based on distance or similarity measures, which is useful for tasks like customer segmentation. Dimensionality reduction techniques like PCA are also unsupervised, compressing data into fewer variables while preserving as much information as possible."
+  },
+  {
+    "id": "ml-03",
+    "topic": "machine_learning",
+    "title": "Neural Network Basics",
+    "text": "A neural network is composed of layers of interconnected nodes, or neurons, each applying a weighted sum of its inputs followed by a nonlinear activation function. Stacking multiple layers lets the network learn increasingly complex patterns, which is the basis of deep learning. Training adjusts the weights using an algorithm called backpropagation, which calculates how much each weight contributed to the overall prediction error."
+  },
+  {
+    "id": "ml-04",
+    "topic": "machine_learning",
+    "title": "Overfitting and Regularization",
+    "text": "Overfitting occurs when a model learns patterns specific to the training data, including its noise, so well that it performs poorly on new data it has not seen before. Regularization techniques, such as adding a penalty for large weights or randomly dropping neurons during training with dropout, discourage the model from relying too heavily on any single feature. Collecting more training data and simplifying the model are other common ways to reduce overfitting."
+  },
+  {
+    "id": "ml-05",
+    "topic": "machine_learning",
+    "title": "Gradient Descent and Optimization",
+    "text": "Gradient descent is an optimization algorithm that iteratively adjusts a model's parameters to minimize a loss function, moving each parameter in the direction that most reduces error. The learning rate controls how large each adjustment step is; too large a rate can overshoot the minimum, while too small a rate makes training slow. Variants like stochastic gradient descent update parameters using small random batches of data rather than the entire dataset at once, speeding up training."
+  },
+  {
+    "id": "ml-06",
+    "topic": "machine_learning",
+    "title": "Decision Trees and Random Forests",
+    "text": "A decision tree splits data repeatedly based on feature values, forming a tree of yes-or-no questions that leads to a prediction at each leaf. Individual decision trees can overfit easily, so random forests combine many trees, each trained on a random subset of data and features, and average their predictions to produce a more robust and accurate model."
+  },
+  {
+    "id": "ml-07",
+    "topic": "machine_learning",
+    "title": "Convolutional Neural Networks",
+    "text": "Convolutional neural networks, or CNNs, are designed for grid-like data such as images, using small filters that slide across the input to detect local patterns like edges and textures. Early layers typically learn simple features, while deeper layers combine them into more complex shapes and objects. CNNs power most modern image classification, object detection, and facial recognition systems."
+  },
+  {
+    "id": "ml-08",
+    "topic": "machine_learning",
+    "title": "Recurrent Neural Networks and Sequences",
+    "text": "Recurrent neural networks process sequential data, such as text or time series, by maintaining a hidden state that carries information from previous time steps forward as new inputs arrive. Variants like LSTM and GRU cells were designed to better preserve information over long sequences, addressing the vanishing gradient problem that made plain RNNs struggle to learn long-range dependencies."
+  },
+  {
+    "id": "ml-09",
+    "topic": "machine_learning",
+    "title": "Transformers and Attention",
+    "text": "The transformer architecture relies on an attention mechanism that lets the model weigh how relevant every other token in a sequence is when processing a given token, rather than passing information step by step as recurrent networks do. This allows transformers to be trained in parallel across an entire sequence and to capture long-range relationships effectively, which is why they underpin most modern large language models and many embedding models used for search."
+  },
+  {
+    "id": "ml-10",
+    "topic": "machine_learning",
+    "title": "Train, Validation, and Test Splits",
+    "text": "Machine learning datasets are typically divided into a training set used to fit the model, a validation set used to tune hyperparameters and compare models during development, and a held-out test set used only once to estimate how the final model will perform on new data. Keeping the test set untouched during development is essential to get an honest estimate of real-world performance."
+  },
+  {
+    "id": "ml-11",
+    "topic": "machine_learning",
+    "title": "Feature Engineering",
+    "text": "Feature engineering is the process of transforming raw data into inputs that better expose the underlying patterns a model needs to learn, such as extracting the day of the week from a timestamp or combining two columns into a meaningful ratio. Even with modern deep learning, which can learn some features automatically, thoughtful feature engineering often still improves performance, especially for structured, tabular data."
+  },
+  {
+    "id": "ml-12",
+    "topic": "machine_learning",
+    "title": "Cross-Validation",
+    "text": "Cross-validation evaluates how well a model generalizes by repeatedly splitting the training data into different training and validation subsets and averaging the resulting performance scores. K-fold cross-validation, a common approach, divides the data into k equally sized parts, trains on k-minus-one of them, and validates on the remaining part, rotating through all k combinations to get a more reliable performance estimate than a single train-validation split."
+  },
+  {
+    "id": "ml-13",
+    "topic": "machine_learning",
+    "title": "The Bias-Variance Tradeoff",
+    "text": "The bias-variance tradeoff describes the balance between a model that is too simple, which underfits the data with high bias, and a model that is too complex, which overfits the data with high variance to noise in the training set. The goal is to find a model complexity that minimizes total error on new data by balancing both sources of error rather than minimizing either one alone."
+  },
+  {
+    "id": "ml-14",
+    "topic": "machine_learning",
+    "title": "Reinforcement Learning Basics",
+    "text": "Reinforcement learning trains an agent to make decisions by interacting with an environment and receiving rewards or penalties based on the outcomes of its actions, gradually learning a policy that maximizes cumulative reward over time. Unlike supervised learning, there is no fixed set of correct labeled answers; instead, the agent must explore different actions to discover which strategies work best, a tension often called the exploration-exploitation tradeoff."
+  },
+  {
+    "id": "ml-15",
+    "topic": "machine_learning",
+    "title": "Embeddings and Vector Representations",
+    "text": "An embedding is a way of representing data, such as words, sentences, or images, as dense numerical vectors in a continuous space where similar items end up positioned close together. Embedding models are typically trained so that semantic similarity in meaning corresponds to geometric closeness, often measured with cosine similarity, which is the foundation that dense vector search and recommendation systems rely on."
+  },
+  {
+    "id": "clim-01",
+    "topic": "climate",
+    "title": "The Greenhouse Effect",
+    "text": "The greenhouse effect occurs when gases in the atmosphere, such as carbon dioxide and methane, trap heat radiated from the Earth's surface instead of letting it escape directly into space. This natural effect keeps the planet warm enough to support life, but human activities like burning fossil fuels have sharply increased greenhouse gas concentrations, intensifying the effect and driving long-term global warming."
+  },
+  {
+    "id": "clim-02",
+    "topic": "climate",
+    "title": "The Carbon Cycle",
+    "text": "The carbon cycle describes how carbon moves between the atmosphere, oceans, soil, and living organisms through processes like photosynthesis, respiration, and the decomposition of organic matter. Burning fossil fuels releases carbon that had been locked underground for millions of years, adding it back into the atmosphere far faster than natural processes can reabsorb it, which disrupts the cycle's long-standing balance."
+  },
+  {
+    "id": "clim-03",
+    "topic": "climate",
+    "title": "Solar Power as Renewable Energy",
+    "text": "Solar power converts sunlight into electricity using photovoltaic cells that generate an electric current when struck by photons, or through concentrated solar systems that use mirrors to heat a fluid that drives a turbine. Solar energy produces no direct emissions during operation and costs have fallen sharply over the past decade, though output varies with weather, time of day, and season, which is why energy storage is often paired with solar installations."
+  },
+  {
+    "id": "clim-04",
+    "topic": "climate",
+    "title": "Wind Power as Renewable Energy",
+    "text": "Wind power uses turbines with large rotating blades to convert the kinetic energy of moving air into electricity through a generator. Wind farms can be built on land or offshore, where ocean winds tend to be stronger and more consistent, and like solar power, wind generates electricity without direct greenhouse gas emissions. Its main limitation is intermittency, since output depends on wind speed and can vary significantly hour to hour."
+  },
+  {
+    "id": "clim-05",
+    "topic": "climate",
+    "title": "Ocean Acidification",
+    "text": "Ocean acidification occurs as the ocean absorbs excess atmospheric carbon dioxide, which reacts with seawater to form carbonic acid and lowers the ocean's pH over time. More acidic water makes it harder for shellfish, corals, and some plankton to build their calcium carbonate shells and skeletons, threatening marine food webs that many ocean species and coastal communities depend on."
+  },
+  {
+    "id": "clim-06",
+    "topic": "climate",
+    "title": "Deforestation and Its Impacts",
+    "text": "Deforestation is the large-scale clearing of forests, often to make room for agriculture, grazing land, or logging, and it removes trees that would otherwise absorb carbon dioxide from the atmosphere. Beyond releasing stored carbon when cleared or burned, deforestation destroys habitats for countless species and can disrupt regional rainfall patterns, since large forests like the Amazon influence the water cycle well beyond their own boundaries."
+  },
+  {
+    "id": "clim-07",
+    "topic": "climate",
+    "title": "Biodiversity Loss",
+    "text": "Biodiversity loss refers to the ongoing decline in the variety of species and genetic diversity within ecosystems, driven largely by habitat destruction, climate change, pollution, and overexploitation of wildlife. Scientists warn that current extinction rates are far above natural background levels, and losing species can weaken ecosystem resilience, since diverse ecosystems are generally better able to withstand disturbances like disease or drought."
+  },
+  {
+    "id": "clim-08",
+    "topic": "climate",
+    "title": "Sea Level Rise",
+    "text": "Sea levels are rising due to two main factors linked to global warming: thermal expansion of ocean water as it warms, and the melting of land ice from glaciers and ice sheets in places like Greenland and Antarctica. Rising seas increase the risk of coastal flooding, erode shorelines, and can contaminate freshwater supplies with saltwater, threatening low-lying island nations and coastal cities around the world."
+  },
+  {
+    "id": "clim-09",
+    "topic": "climate",
+    "title": "Extreme Weather and a Warming Climate",
+    "text": "A warmer atmosphere holds more moisture and carries more energy, which scientists link to an increase in the frequency and intensity of extreme weather events such as heavy rainfall, prolonged droughts, and powerful hurricanes. While no single storm or heatwave can be blamed entirely on climate change, statistical analysis increasingly shows that global warming makes many extreme events more likely or more severe than they would otherwise be."
+  },
+  {
+    "id": "clim-10",
+    "topic": "climate",
+    "title": "Carbon Footprint and Emissions",
+    "text": "A carbon footprint is the total amount of greenhouse gases, usually expressed as carbon dioxide equivalent, generated by an individual, organization, product, or event. Major contributors to a typical individual's footprint include transportation, home energy use, and diet, with air travel and red meat consumption often cited as particularly carbon-intensive choices that people can target to reduce their impact."
+  },
+  {
+    "id": "clim-11",
+    "topic": "climate",
+    "title": "Recycling and the Circular Economy",
+    "text": "Recycling reprocesses used materials like paper, glass, and certain plastics into new products, reducing the need to extract and process virgin raw materials. The broader idea of a circular economy goes further, aiming to design products and systems so materials are reused, repaired, or recycled indefinitely rather than following the traditional take-make-dispose model, minimizing waste sent to landfills."
+  },
+  {
+    "id": "clim-12",
+    "topic": "climate",
+    "title": "Air Pollution and Human Health",
+    "text": "Air pollution from vehicle exhaust, industrial emissions, and burning fossil fuels releases particulate matter and gases like nitrogen dioxide that can penetrate deep into the lungs and bloodstream. Long-term exposure is linked to respiratory diseases, cardiovascular problems, and reduced life expectancy, with children, the elderly, and people with existing health conditions typically facing the greatest risk."
+  },
+  {
+    "id": "clim-13",
+    "topic": "climate",
+    "title": "Climate Policy and the Paris Agreement",
+    "text": "The Paris Agreement, adopted in 2015, is an international treaty in which nearly every country committed to limiting global temperature rise, aiming to keep warming well below 2 degrees Celsius above pre-industrial levels. Each participating country sets its own voluntary emissions targets, called nationally determined contributions, and reports progress periodically, though the agreement itself has no mechanism to directly penalize countries that fall short."
+  },
+  {
+    "id": "clim-14",
+    "topic": "climate",
+    "title": "Permafrost Thaw",
+    "text": "Permafrost is ground that has remained frozen for at least two consecutive years, found across large areas of the Arctic, and it stores enormous amounts of ancient organic carbon. As rising temperatures cause permafrost to thaw, buried organic material decomposes and releases carbon dioxide and methane, a potent greenhouse gas, creating a feedback loop that could further accelerate warming."
+  },
+  {
+    "id": "clim-15",
+    "topic": "climate",
+    "title": "Coral Reef Bleaching",
+    "text": "Coral reefs host colorful algae that live inside coral tissue and provide most of the coral's energy and color through photosynthesis. When ocean water becomes too warm, corals expel these algae in a stress response called bleaching, leaving the coral white and vulnerable to starvation and disease. Repeated or prolonged bleaching events, increasingly common as oceans warm, can kill entire reef systems that took centuries to form."
+  },
+  {
+    "id": "cook-01",
+    "topic": "cooking",
+    "title": "Basic Knife Skills",
+    "text": "Good knife skills start with a proper grip, holding the blade with a pinch grip near the handle while curling the guiding hand's fingers under to protect them, a technique often called the claw grip. Common cuts include the julienne, thin matchstick strips, and the dice, uniform cubes used for even cooking. A sharp knife is actually safer than a dull one, since it requires less force and is less likely to slip."
+  },
+  {
+    "id": "cook-02",
+    "topic": "cooking",
+    "title": "Sautéing Technique",
+    "text": "Sautéing cooks food quickly in a small amount of fat over relatively high heat, usually in a wide, shallow pan that allows moisture to evaporate rather than steam the food. Keeping ingredients moving, either by tossing the pan or stirring, promotes even browning and prevents sticking. The technique works best with tender, small pieces of vegetables, meat, or seafood that cook through in just a few minutes."
+  },
+  {
+    "id": "cook-03",
+    "topic": "cooking",
+    "title": "Braising Technique",
+    "text": "Braising combines dry and wet cooking methods, first searing food at high heat to develop flavor through browning, then simmering it slowly in a small amount of liquid in a covered pot. The long, gentle cooking breaks down tough connective tissue in cuts like beef chuck or pork shoulder, turning them tender while the surrounding liquid reduces into a flavorful sauce."
+  },
+  {
+    "id": "cook-04",
+    "topic": "cooking",
+    "title": "Baking Bread with Yeast",
+    "text": "Yeast bread relies on live yeast consuming sugars in the dough and releasing carbon dioxide gas, which gets trapped in strands of gluten formed as the dough is kneaded, causing the bread to rise. Allowing the dough to rest, or proof, gives the yeast time to work and develops flavor through fermentation. Baking at high heat then sets the structure and creates a browned crust through the Maillard reaction."
+  },
+  {
+    "id": "cook-05",
+    "topic": "cooking",
+    "title": "Emulsification: Mayonnaise and Vinaigrette",
+    "text": "Emulsification combines two liquids that normally do not mix, such as oil and water, into a stable blend by dispersing tiny droplets of one liquid throughout the other. Mayonnaise achieves this with egg yolk, whose lecithin acts as an emulsifier, while a vinaigrette relies on vigorous whisking or mustard to temporarily suspend oil droplets in vinegar before they separate again."
+  },
+  {
+    "id": "cook-06",
+    "topic": "cooking",
+    "title": "The Maillard Reaction and Searing",
+    "text": "The Maillard reaction is a chemical reaction between amino acids and sugars that occurs when food is heated to around 300 degrees Fahrenheit or higher, producing the complex browned flavors and aromas associated with seared meat, toasted bread, and roasted coffee. Achieving a good sear requires a dry surface and high, consistent heat, since excess surface moisture cools the pan and causes steaming instead of browning."
+  },
+  {
+    "id": "cook-07",
+    "topic": "cooking",
+    "title": "Fermentation Basics",
+    "text": "Fermentation uses microorganisms like bacteria, yeast, or molds to transform food, producing byproducts such as acids, alcohol, or gases that change flavor, texture, and preservation. Lactic acid fermentation, used in sauerkraut and yogurt, relies on bacteria converting sugars into lactic acid, which lowers pH enough to inhibit spoilage organisms and gives fermented foods their characteristic tang."
+  },
+  {
+    "id": "cook-08",
+    "topic": "cooking",
+    "title": "Making Stock and Broth",
+    "text": "Stock is made by simmering bones, and often vegetables and aromatics, in water for an extended time to extract collagen, flavor compounds, and minerals, while broth is typically simmered with meat for a shorter time and has a lighter body. Simmering gently rather than boiling keeps the liquid clear by preventing fat and proteins from emulsifying into it, and skimming off foam further improves clarity."
+  },
+  {
+    "id": "cook-09",
+    "topic": "cooking",
+    "title": "Seasoning with Salt",
+    "text": "Salt enhances flavor by suppressing bitterness and amplifying other tastes, which is why seasoning food at multiple stages of cooking, rather than only at the end, tends to produce more balanced flavor throughout. Salt also draws moisture out of food through osmosis, which is useful for techniques like dry-brining meat or drawing excess water out of salted vegetables before cooking."
+  },
+  {
+    "id": "cook-10",
+    "topic": "cooking",
+    "title": "Making Fresh Pasta",
+    "text": "Fresh pasta dough is typically made from flour, eggs, and sometimes a touch of oil or water, kneaded until smooth and elastic as gluten develops. Resting the dough, covered, for at least thirty minutes relaxes the gluten, making it easier to roll thin without tearing. Fresh pasta cooks much faster than dried pasta, often in just one to three minutes in boiling water."
+  },
+  {
+    "id": "cook-11",
+    "topic": "cooking",
+    "title": "Grilling vs Roasting",
+    "text": "Grilling cooks food directly over high, often open-flame heat, producing characteristic char marks and smoky flavor in a relatively short time, which suits thinner cuts of meat and vegetables. Roasting instead surrounds food with hot, circulating air in an oven, cooking it more evenly and gently over a longer period, making it better suited to larger cuts like a whole chicken or a roast that need time for heat to penetrate to the center."
+  },
+  {
+    "id": "cook-12",
+    "topic": "cooking",
+    "title": "Sous Vide Cooking",
+    "text": "Sous vide cooking seals food in an airtight bag and immerses it in a water bath held at a precise, constant temperature, often matching the exact final temperature desired for the food. Because the water temperature never exceeds the target, it is nearly impossible to overcook the interior of the food, though a quick sear afterward is usually needed to develop browning and surface texture that sous vide alone cannot produce."
+  },
+  {
+    "id": "cook-13",
+    "topic": "cooking",
+    "title": "Pastry and Gluten Development",
+    "text": "Pastry recipes often aim to limit gluten development to produce a tender, flaky texture rather than a chewy one, which is why pastry dough is mixed minimally and kept cold so the fat stays in solid pieces. Cold butter cut into flour creates distinct layers that, when baked, release steam and separate into the flaky layers characteristic of good pie crust or croissants."
+  },
+  {
+    "id": "cook-14",
+    "topic": "cooking",
+    "title": "Building Spice Blends",
+    "text": "Spice blends combine multiple dried spices to create layered, balanced flavor profiles, often grouped by the roles they play, such as warmth from cinnamon or cumin, heat from chili, and brightness from citrus-forward spices like sumac. Toasting whole spices briefly before grinding them releases aromatic oils and deepens their flavor compared to using pre-ground spices that have already lost much of their potency."
+  },
+  {
+    "id": "cook-15",
+    "topic": "cooking",
+    "title": "Food Safety and Storage Temperatures",
+    "text": "Perishable food should generally be kept out of the temperature danger zone between 40 and 140 degrees Fahrenheit, the range where bacteria multiply fastest, which is why refrigerators are kept at or below 40 degrees. Cooking meat to a safe internal temperature, confirmed with a food thermometer rather than guesswork, is one of the most reliable ways to kill harmful bacteria before eating."
+  }
+]

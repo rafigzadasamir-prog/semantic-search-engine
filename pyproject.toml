@@ -1,0 +1,56 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "semantic-search-engine"
+version = "0.1.0"
+description = "A hybrid lexical + dense semantic search engine with reciprocal-rank fusion and cross-encoder reranking."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Samir Rafigzada", email = "rafigzadasamir@gmail.com" }]
+keywords = ["search", "bm25", "embeddings", "sentence-transformers", "reranking", "information-retrieval"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "fastapi>=0.104",
+    "uvicorn[standard]>=0.24",
+    "pydantic>=2.4",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=2.2.2",
+    # Pinned to a known-good CPU-friendly release: newer torch builds have been
+    # observed to fail to load on Windows (DLL init errors), and torch<2.4
+    # predates torch's NumPy 2.x compatibility shim.
+    "torch>=2.6,<2.7",
+    "numpy>=2,<3",
+]
+
+[project.optional-dependencies]
+dev = ["ruff>=0.4", "pytest>=7.4", "httpx>=0.24"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/semantic_search_engine"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+# FastAPI's Query()/Depends() in argument defaults is the standard, documented
+# idiom for declaring request parameters and dependencies.
+"src/semantic_search_engine/api.py" = ["B008"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "integration: tests that download/run real ML models; skipped by default",
+]
+addopts = "-m 'not integration'"
